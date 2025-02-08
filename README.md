@@ -23,7 +23,7 @@ To get started with BaseScrambler, follow these steps:
 2. Navigate to the project directory:
 
     ```sh
-    cd BaseScrambler
+    cd BaseScrambler-Project
     ```
 
 3. Install the required dependencies:
