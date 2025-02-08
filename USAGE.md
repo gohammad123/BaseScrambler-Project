@@ -34,4 +34,4 @@ To use the BASEScrambler Project, follow these steps:
     python scrambler.py
     ```
 
-For more details, refer to the [wiki](https://github.com/babafun/BASEScrambler/wiki).
+For more details, refer to the [wiki](https://github.com/babafun/BASEScrambler-Project/wiki).
