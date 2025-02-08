@@ -39,6 +39,8 @@ To encrypt a file, first open up any one of the Python or HTML files. For a Pyth
 sh
 python name-of-file.py
 `
+Make sure that when you send someone the encrypted message (it will be in plain text), you tell them which version you're using! Not all versions are the same!
+See more [here](USAGE.md).
 
 ## Contributing
 
