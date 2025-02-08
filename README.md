@@ -1,3 +1,5 @@
+# The BASEScrambler Project
+
 ## Overview
 
 BaseScrambler is a small encryption project I've been working on. The goal of this project is to provide a simple yet effective way to encrypt and decrypt data using a custom algorithm.
