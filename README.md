@@ -42,7 +42,7 @@ python name-of-file.py
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions! See the contributions page [here](CONTRIBUTIONS.md)
 
 ## License
 
@@ -50,6 +50,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or feedback, feel free to reach out to me.
 
  A small encryption project I've been working on.
