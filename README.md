@@ -40,6 +40,7 @@ sh
 python name-of-file.py
 `
 Make sure that when you send someone the encrypted message (it will be in plain text), you tell them which version you're using! Not all versions are the same!
+Oh, and the password is the 18th letter of the Greek alphabet. In lowercase.
 See more [here](USAGE.md).
 
 ## Contributing
